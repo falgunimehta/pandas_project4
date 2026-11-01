@@ -14,7 +14,7 @@ VS code
 
 What I learned:
 
-Using the `.str` accessor to clean text data.
+Using the '.str' accessor to clean text data.
 
 Replacing characters across a whole column.
 
